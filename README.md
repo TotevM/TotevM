@@ -38,13 +38,12 @@ I am **Metodi** - a **Fullstack Developer** passionate about working on new proj
   </tr>
   <tr>
     <td width="50%">
-      - 2+ years of experience in fullstack development  
-      - Strong foundation in C# and .NET ecosystem  
-      - Experience with database design and optimization  
-      - Worked on several web applications from scratch  
+      - 2+ years of experience in fullstack development  <br>
+      - Strong foundation in C# and .NET ecosystem  <br>
+      - Experience with database design and web apps
     </td>
     <td width="50%">
-      - Expanding my knowledge in cloud technologies  
+      - Expanding my knowledge in cloud technologies  <br>
       - Actively researching Web3 technologies  
     </td>
   </tr>
