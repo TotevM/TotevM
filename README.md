@@ -43,7 +43,7 @@ I am **Metodi** - a **Fullstack Developer** passionate about working on new proj
     </td>
     <td width="50%">
       - Expanding my knowledge in cloud technologies  <br>
-      - Actively researching Web3 technologies  
+      - Learning ReactJS
     </td>
   </tr>
 </table>
@@ -64,5 +64,3 @@ I am **Metodi** - a **Fullstack Developer** passionate about working on new proj
 <a href="mailto:mtotev53@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
 </a>
-
-[![](https://visitcount.itsvg.in/api?id=TotevM&icon=0&color=0)](https://visitcount.itsvg.in)
